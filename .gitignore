@@ -1,0 +1,57 @@
+# ============================================================
+# Dart / Flutter
+# ============================================================
+
+.dart_tool/
+.pub/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Flutter generated files
+/build/
+**/doc/api/
+
+# Coverage
+/coverage/
+
+# Generated symbolication / obfuscation files
+app.*.symbols
+app.*.map.json
+
+# ============================================================
+# Android
+# ============================================================
+
+/android/.gradle/
+/android/local.properties
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Android Studio / Gradle generated files
+*.iml
+
+# ============================================================
+# IDE
+# ============================================================
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# ============================================================
+# Miscellaneous
+# ============================================================
+
+*.log
+*.pyc
+*.swp
+.DS_Store
+.history/
+.svn/
+.atom/
